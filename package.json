@@ -26,7 +26,11 @@
   },
   "homepage": "https://github.com/LucyMoore/FeedaFile",
   "dependencies": {
-    "express": "^4.13.4"
+    "browserify": "^10.2.6",
+    "express": "^4.13.4",
+    "hyperscript": "^1.4.7",
+    "jquery": "^2.2.2",
+    "superagent": "^1.8.1"
   },
   "devDependencies": {
     "browserify": "^10.0.0",
