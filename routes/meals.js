@@ -9,4 +9,16 @@ router.get('/', function(req, res, next) {
     res.json(JSON.parse(data));
   });
 });
+
+
+router.get('/:id', function(req, res, next) {
+  fs.readFile('db/db.json', 'utf8', function(err, data) {
+    if (err) throw err;
+    console.log(data);
+    res.json(JSON.parse(data));
+  });
+});
+
 module.exports = router;
+
+
