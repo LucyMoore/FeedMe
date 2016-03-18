@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LucyMoore/FeedaFile"
+    "url": "git+https://github.com/LucyMoore/FeedaFile.git"
   },
   "author": "LucyMoore",
   "license": "MIT",
@@ -41,5 +41,6 @@
     "tape": "^4.0.0",
     "uglifyify": "^3.0.1",
     "watchify": "^3.1.0"
-  }
+  },
+  "keywords": []
 }

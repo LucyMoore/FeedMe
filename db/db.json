@@ -1,0 +1,32 @@
+{
+  "meals": [{
+    "id": 1,
+    "name": "spaghetti",
+    "ingredients": {
+      "cheese": 1,
+      "pasta": 1,
+      "tomato": 3
+    }
+  }, {
+    "id": 2,
+    "name": "soup",
+    "ingredients": {
+      "potato": 1,
+      "leek": 1,
+      "garlic": 1,
+      "stock": 1
+    }
+  }, {
+    "id": 3,
+    "name": "curry",
+    "ingredients": {
+      "chickpeas": 1,
+      "rice": 1,
+      "spice": 3,
+      "spinach": 1,
+      "garlic": 1
+    }
+  }]
+
+
+}
